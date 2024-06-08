@@ -59,18 +59,6 @@ button{
     border:0;
     cursor: pointer;
 }
-/*main{
-    display: inline-block;
-    margin-top: 100px;
-    border: 1px solid gray;
-    overflow:hidden;
-    border-radius: 25px;
-    background: white;
-    width: 400px;
-    height: 500x;
-}
-   */
-
 .card{
     margin: auto;
     margin-top: 60px;
