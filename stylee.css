@@ -1,0 +1,113 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+body{
+    margin: 0;
+    padding:0;
+    text-align: center;
+    background: white;
+}
+.container{
+    text-align: left;
+    margin-top: 10px;
+    border: 1px solid #bbbbbb;
+    box-shadow: 0px 2px 0px 0px #bbbbbb;
+    padding: 5px;
+
+}
+.logo{
+    
+    margin: 15px 0px 5px;
+    width: 150px;
+    float: left;
+
+
+}
+.fort{
+   width: 100%;
+    border-radius: 25px 25px 0px 0px;
+    margin: 0px 10px 0px 0px;
+}
+p{
+    font-size: 1.2em;
+    padding: 20px;
+    text-align: left;
+    font-weight: 500;
+}
+button{
+    
+    text-align: center;
+    margin: 0px 0px 25px;
+    float: left;
+    margin-left: 25px;
+    width: 90px;
+    height: 40px;
+    color: white;
+    font-weight: bold;
+    font: 1.2em arial sans-serif;
+    background-color: rgb(142, 46, 231);
+    border-radius: 10px;
+    border:0;
+    cursor: pointer;
+}
+main{
+    display: inline-block;
+    margin-top: 100px;
+    border: 1px solid gray;
+    overflow:hidden;
+    border-radius: 25px;
+    background: white;
+    width: 400px;
+    height: 500x;
+    
+}
+/*.card{
+    
+    margin-top: 100px;
+    border: 1px solid gray;
+    overflow:hidden;
+    border-radius: 25px;
+    background: white;
+    width: 400px;
+    height: 500x;
+}*/
+ul li {
+    width:50px;
+    text-align: justify;
+    margin: 25px;
+    list-style: none;
+    display:inline-block;
+}
+a{
+    
+    text-decoration: none;
+    font: 1.1em Arial,sans-serif, bold;
+    color: black;
+    margin:0px 0px 10px 30px;
+    
+    
+}
+footer{
+    
+
+    margin-top: 100px;
+    padding: 15px;
+    height: 70px;
+    width:100%;
+    text-align: justify;
+    border: 1px #333 solid;
+    
+
+}
+img{
+    margin: 5px 15px 15px;
+    width: 120px;
+    float: left;
+}
+.p3{
+    font: 1.2em arial sans-serif bold;
+  padding: 10px;
+}
